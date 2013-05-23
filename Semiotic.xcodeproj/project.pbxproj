@@ -92,6 +92,7 @@
 		B6049A11174887A700140C03 /* Rect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B60499BE174887A700140C03 /* Rect.cpp */; };
 		B6049A12174887A700140C03 /* RectangleBinPack.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B60499C0174887A700140C03 /* RectangleBinPack.pdf */; };
 		B6049A13174887A700140C03 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B60499C2174887A700140C03 /* ViewController.m */; };
+		B6E10577174E15CB0071AFA0 /* SMLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6E10576174E15CB0071AFA0 /* SMLoginViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -190,6 +191,8 @@
 		B60499C0174887A700140C03 /* RectangleBinPack.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = RectangleBinPack.pdf; sourceTree = "<group>"; };
 		B60499C1174887A700140C03 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		B60499C2174887A700140C03 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		B6E10575174E15CB0071AFA0 /* SMLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMLoginViewController.h; sourceTree = "<group>"; };
+		B6E10576174E15CB0071AFA0 /* SMLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMLoginViewController.m; sourceTree = "<group>"; };
 		C282D63AF733462E8AAA23FB /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -262,6 +265,8 @@
 				B60499C0174887A700140C03 /* RectangleBinPack.pdf */,
 				B60499C1174887A700140C03 /* ViewController.h */,
 				B60499C2174887A700140C03 /* ViewController.m */,
+				B6E10575174E15CB0071AFA0 /* SMLoginViewController.h */,
+				B6E10576174E15CB0071AFA0 /* SMLoginViewController.m */,
 			);
 			path = Semiotic;
 			sourceTree = "<group>";
@@ -532,6 +537,7 @@
 				B6049A10174887A700140C03 /* main.m in Sources */,
 				B6049A11174887A700140C03 /* Rect.cpp in Sources */,
 				B6049A13174887A700140C03 /* ViewController.m in Sources */,
+				B6E10577174E15CB0071AFA0 /* SMLoginViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
